@@ -1,0 +1,20 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul li {
+    list-style: inside;
+}
+
+body p {
+    color:rgb(19, 32, 32);
+    font-weight: bold;
+}
+
+body a {
+    text-decoration: none;
+}
+
+body a:hover {
+    color: green;
+}

@@ -1,0 +1,11 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul li {
+    list-style: circle;
+}
+
+li a {
+    text-decoration: none;
+}
